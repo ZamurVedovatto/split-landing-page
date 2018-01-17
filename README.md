@@ -1,4 +1,5 @@
-# split-landing-page
+# split-landing-page_study
+## Build a landing page by following the video tutorial
 
 **tutorial link**: www.youtube.com/watch?v=oRmQN244Ir0&ab_channel=TraversyMedia
 
